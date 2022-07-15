@@ -1,0 +1,22 @@
+Penulisan Syntax JavaScript
+
+Tag <script>
+
+Dalam HTML, kode JavaScript disisipkan diantara tag <script> dan </script>.
+
+JavaScript versi lama mungkin menggunakan attribut type: <script type="text/javascript">. Atribut type tidak diperlukan. JavaScript adalah bahasa script default dalam HTML.
+
+Function dan Event JavaScript
+
+function JavaScript adalah blok kode JavaScript, yang dapat dieksekusi saat "dipanggil".
+Misalnya, suatu function dapat dipanggil ketika suatu peristiwa terjadi, seperti ketika pengguna mengklik tombol.
+
+JavaScript di <head> atau <body>
+
+Kita dapat menempatkan sejumlah script dalam dokumen HTML.
+Script dapat ditempatkan di <body>, atau di <head> bagian halaman HTML, atau keduanya.
+
+JavaScript di <head>
+
+function ditempatkan di <head> bagian halaman HTML.
+function dipanggil ketika tombol diklik

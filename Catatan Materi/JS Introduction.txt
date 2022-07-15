@@ -1,0 +1,8 @@
+JavaScript Dapat Menyembunyikan Elemen HTML
+
+Menyembunyikan elemen HTML dapat dilakukan dengan mengubah display style
+
+
+JavaScript Dapat Menampilkan Elemen HTML
+
+Menampilkan elemen HTML tersembunyi juga dapat dilakukan dengan mengubah display
